@@ -1,0 +1,15 @@
+.col{
+    text-align: center;
+}
+p {
+    font-size: 4rem;
+    color: #333;
+    font-weight: 600;
+}
+
+p:nth-of-type(2) {
+    font-size: 2rem;
+    color: #333;
+    font-weight: 600;
+    clear: both;
+}
